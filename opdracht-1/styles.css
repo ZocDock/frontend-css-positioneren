@@ -9,3 +9,7 @@
 }
 
 /* Kleuren in gebruik: lichtgrijs: #F7F7F7 & donkergrijs: #d3d3d3 */
+
+.recipe-card {
+    box-sizing: border-box;
+}
