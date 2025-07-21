@@ -8,9 +8,9 @@
     /* Dit element heeft een vaste breedte van 350 pixels */
     width: 350px;
     /* Added */
-    border: #d3d3d3 solid 2px;
+    border: #d3d3d3 solid 1px;
     border-radius: 8px;
-    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 8px 8px 0 rgba(0, 0, 0, 0.10);
     overflow: hidden;
 
 }
