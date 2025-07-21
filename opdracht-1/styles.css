@@ -1,8 +1,11 @@
 /* Ook eigen css: Import Poppins font, 400 & 600 */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-.recipe-card {
+* {
     box-sizing: border-box;
+}
+
+.recipe-card {
     /* "auto" aan de zijkanten zorgt ervoor dat het element in het midden komt te staan*/
     margin: 80px auto;
     /* Dit element heeft een vaste breedte van 350 pixels */
