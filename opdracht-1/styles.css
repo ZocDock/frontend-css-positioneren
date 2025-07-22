@@ -27,14 +27,12 @@ h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    text-align: center;
     margin: 25px;
 }
 
 .detail-bar {
     background-color: #F7F7F7;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-block: 10px;
     margin-top: -6px;
 }
 
@@ -42,8 +40,7 @@ h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    text-align: center;
-    margin-inline: 8px;
+    margin-inline: 12px;
 }
 
 .time-icon {
