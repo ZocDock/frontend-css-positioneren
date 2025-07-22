@@ -1,4 +1,4 @@
-/* Ook eigen css: Import Poppins font, 400 & 600 */
+/* Import Poppins font, 400 & 600 */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 * {
@@ -13,7 +13,7 @@
     /* Added */
     border: #d3d3d3 solid 1px;
     border-radius: 8px;
-    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15);
     overflow: hidden;
     position: relative;
 
