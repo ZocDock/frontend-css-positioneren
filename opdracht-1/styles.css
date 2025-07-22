@@ -30,6 +30,10 @@ h2 {
     text-align: center;
 }
 
+.detail-bar {
+    background-color: #F7F7F7;
+}
+
 .detail-assets {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
