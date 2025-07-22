@@ -28,6 +28,7 @@ h2 {
     font-weight: 600;
     font-size: 16px;
     text-align: center;
+    margin: 10px;
 }
 
 .detail-bar {
@@ -41,19 +42,20 @@ h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    margin-inline: 6px;
+    text-align: center;
+    margin-inline: 8px;
 }
 
 .time-icon {
-    width: 15px;
+    width: 12px;
 }
 
 .calories-icon {
-    height: 16px;
+    height: 12px;
 }
 
 .star-icon {
-    width: 15px;
+    width: 12px;
 }
 
 .favorite-icon {
@@ -62,5 +64,6 @@ h2 {
     top: 10px;
     right: 10px;
 }
+
 /* Kleuren in gebruik: lichtgrijs: #F7F7F7 & donkergrijs: #d3d3d3 */
 
