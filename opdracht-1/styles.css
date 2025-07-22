@@ -32,7 +32,8 @@ h2 {
 
 .detail-bar {
     background-color: #F7F7F7;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-top: -6px;
 }
 
