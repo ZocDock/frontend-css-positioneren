@@ -80,8 +80,6 @@ Kleuren voor de bolletjes:
 }
 
 .color-dots {
-    width: 15px;
-    height: 15px;
     border-radius: 50%;
     display: inline-block;
 }
@@ -92,16 +90,24 @@ Kleuren voor de bolletjes:
 
 .pink-dot {
     background-color: #faa0c7;
+    width: 15px;
+    height: 15px;
 }
 
 .black-dot {
     background-color: #272729;
+    width: 15px;
+    height: 15px;
 }
 
 .brown-dot {
     background-color: #928471;
+    width: 15px;
+    height: 15px;
 }
 
 .gray-dot {
     background-color: #c2c2b4;
+    width: 15px;
+    height: 15px;
 }
