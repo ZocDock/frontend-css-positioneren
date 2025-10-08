@@ -48,7 +48,7 @@ Je vindt de opdracht in de map `opdracht-1`. Deze map bevat de volgende bestande
 
 ### Eindresultaat
 
-![Screenshot opdracht 2](./opdracht-2/assets/screenshot.png)
+![Screenshot opdracht 2](opdracht-2/screenshot.png)
 Je vindt de opdracht in de map `opdracht-2`. Deze map bevat de volgende bestanden:
 * Een `assets`-map met daarin het hart-icoontje en de afbeelding van het model met de blazer;
 * `index.html` met daarin een (bijna) lege body: deze vul jij aan met jouw uitwerkingen;
