@@ -82,6 +82,7 @@ Kleuren voor de bolletjes:
 .color-dots {
     border-radius: 50%;
     display: inline-block;
+    cursor: pointer;
 }
 
 .color-dots + .pink-dot + .black-dot + .light-gray-dot {
