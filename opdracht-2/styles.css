@@ -78,3 +78,11 @@ Kleuren voor de bolletjes:
     font-size: 1rem;
     margin: 2px 0;
 }
+
+.color-dots {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #faa0c7;
+}
