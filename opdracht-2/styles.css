@@ -33,6 +33,17 @@ Kleuren voor de bolletjes:
 .new-text {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #DE6127;
+}
+
+.surrounding-details {
+    position: relative;
+}
+
+.icon-favorite {
+    width: 24px;
+    position: absolute;
+    right: 10px;
+    bottom: 50px;
 }
