@@ -81,8 +81,11 @@ Kleuren voor de bolletjes:
 
 .color-dots {
     display: inline-block;
-    height: 20px;
-    width: 20px;
+    height: 15px;
+    width: 15px;
     border-radius: 50%;
+}
+
+.pink-dot {
     background-color: #faa0c7;
 }
