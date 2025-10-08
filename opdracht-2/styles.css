@@ -54,5 +54,24 @@ Kleuren voor de bolletjes:
     width: 24px;
     position: absolute;
     right: 10px;
-    bottom: 50px;
+    bottom: 20px;
+}
+
+.conscious-choice {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #737373;
+    font-size: 1rem;
+}
+
+.product-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+
+.product-price {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
 }
